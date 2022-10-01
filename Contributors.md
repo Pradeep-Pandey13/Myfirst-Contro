@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
+- [Pradeep Pandey](https://github.com/Pradeep-Pandey13)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
